@@ -1,0 +1,104 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Ankita",
+      "lastName": "Jain",
+      "age": 28,
+      "gender": "female",
+      "email": "ankita@gmail.com",
+      "amount": 25000
+    },
+    {
+      "id": "2",
+      "firstName": "Ravi",
+      "lastName": "test",
+      "age": "19",
+      "gender": "Male",
+      "email": "Ravi@test.com",
+      "amount": 0
+    },
+    {
+      "id": "3",
+      "firstName": "Vinay",
+      "lastName": "tes1",
+      "age": "12",
+      "gender": "Male",
+      "email": "vinay@gmail.com",
+      "amount": 0
+    },
+    {
+      "id": "4",
+      "firstName": "varun",
+      "lastName": "Reddy",
+      "age": "25",
+      "gender": "Male",
+      "email": "varunreddy@gmail.com",
+      "amount": 24865
+    },
+    {
+      "id": "5",
+      "firstName": "Hemanth",
+      "lastName": "Kumar",
+      "age": "25",
+      "gender": "Male",
+      "email": "hemanthk@gmail.com",
+      "amount": 18766
+    },
+    {
+      "id": "6",
+      "firstName": "Akash",
+      "lastName": "Kumar",
+      "age": "25",
+      "gender": "Male",
+      "email": "akashk@gmail.com",
+      "amount": 24865
+    },
+      
+    {
+      "id": "5b5d",
+      "firstName": "dfdsf",
+      "lastName": "dsf",
+      "age": "33",
+      "gender": "Male",
+      "email": "dfdf",
+      "amount": "333"
+    },
+    {
+      "id": "d5ee",
+      "firstName": "hello",
+      "lastName": "kumar",
+      "age": "33",
+      "gender": "Male",
+      "email": "hello@gmail.com",
+      "amount": "25000"
+    },
+    {
+      "id": "1bca",
+      "firstName": "wewqe",
+      "lastName": "",
+      "age": "",
+      "gender": "Male",
+      "email": "wewqe",
+      "amount": ""
+    },
+    {
+      "id": "0360",
+      "firstName": "222",
+      "lastName": "111",
+      "age": "222",
+      "gender": "Female",
+      "email": "222",
+      "amount": "22"
+    },
+    {
+      "id": "6821",
+      "firstName": "test11",
+      "lastName": "kumar",
+      "age": "22",
+      "gender": "Male",
+      "email": "test@kumar.com",
+      "amount": "2222"
+    }
+  ]
+}
